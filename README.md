@@ -1,3 +1,5 @@
+**NOTE:** Because of the large project size, the full repo is at this link: https://git.arts.ac.uk/22012837/CreativeMakingFinalProject
+
 # Forest Feeder
 
 As you wander around this 3D forest, you may come across rabbits. Some are hopping from place to place, some are resting, others are chatting amongst themselves. There's one thing they all have in common - they're hungry!
@@ -6,8 +8,8 @@ Thankfully, you've come prepared with loads of carrots to feed these little crit
 
 This is a first-person perspective, un-timed game created in Unity. It uses an Adafruit Capacitive Touch sensor (MPR121) to link the physical world with the digital one via a carrot. 
 
-<img src="https://git.arts.ac.uk/storage/user/650/files/3df609f2-7dd8-4440-b7f1-6befe5bee182" width="80%"> <img src="https://git.arts.ac.uk/storage/user/650/files/f6986756-c03f-4878-a309-4091b11c7fd3" width="80%"> <img src="https://git.arts.ac.uk/storage/user/650/files/23601cd3-f155-4b28-b853-6bca3579520d" width="80%"> <img src="https://git.arts.ac.uk/storage/user/650/files/0619dde6-6ef2-4963-af6b-9e5329dcdf5d" width="80%">
-
+<img src="https://git.arts.ac.uk/storage/user/650/files/3df609f2-7dd8-4440-b7f1-6befe5bee182" width="80%"> 
+<img src="https://github.com/evamh/Unity-Forest-Feeder-/assets/12279913/35f9633a-dc3c-410a-b53b-4bbbeb9a4e08" width="80%"> <img src="https://git.arts.ac.uk/storage/user/650/files/23601cd3-f155-4b28-b853-6bca3579520d" width="80%"> <img src="https://git.arts.ac.uk/storage/user/650/files/0619dde6-6ef2-4963-af6b-9e5329dcdf5d" width="80%">
 
 ## Carrot controls
 
@@ -105,7 +107,7 @@ This game initially started off as a fun project to test out Unity's terrain bui
 
 <img src="https://git.arts.ac.uk/storage/user/650/files/45abde90-bda0-438d-8c22-6d018efbd973" width="45%">
 
-<img src="https://git.arts.ac.uk/storage/user/650/files/91bbcc92-7d33-401c-afce-2d1f67857415" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/4a722257-8db6-419e-aaa2-649fe4845905" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/7debf805-c000-4535-85d1-359fa295e0c3" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/b3b05407-713e-4b64-963a-7d7d8543861a" width="45%"> 
+<img src="https://github.com/evamh/Unity-Forest-Feeder-/assets/12279913/c0e3a347-79b8-4874-b5b3-8eda1ff3b5b6" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/4a722257-8db6-419e-aaa2-649fe4845905" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/7debf805-c000-4535-85d1-359fa295e0c3" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/b3b05407-713e-4b64-963a-7d7d8543861a" width="45%"> 
 
 As I was creating the landscape, I was inspired to create mountains as well. On one edge of the landscape, I increased the height substantially to create mountain peaks. I painted snow at the top, and a rocky texture on the sides.
 
@@ -114,11 +116,11 @@ As I was creating the landscape, I was inspired to create mountains as well. On 
 
 I also added lakes to the scene by carving out the terrain and placing a plane with a transparent, pale blue material on it. To make the scene more immersive, audio of a stream plays as the player advances towards the lakes. 
 
-<img src="https://git.arts.ac.uk/storage/user/650/files/67cfad96-9755-4b35-95e8-07c7009c78bd" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/5e43ac33-c1cd-4f04-9baa-01d5afde34ff" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/0b2012f6-b381-49ca-be09-b83003ce6388" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/c978d3a7-2401-4b43-9af3-4ba80caeaa00" width="45%"> 
+<img src="https://git.arts.ac.uk/storage/user/650/files/67cfad96-9755-4b35-95e8-07c7009c78bd" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/5e43ac33-c1cd-4f04-9baa-01d5afde34ff" width="45%"> <img src="https://github.com/evamh/Unity-Forest-Feeder-/assets/12279913/cef81867-fe0c-432a-87a8-ec2696de205f" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/c978d3a7-2401-4b43-9af3-4ba80caeaa00" width="45%"> 
 
 Finally, I added in extra details using assets created in Blender and downloaded from the Unity Asset Store. I placed these around the forest to create areas for the player to stumble upon while exploring.
 
-<img src="https://git.arts.ac.uk/storage/user/650/files/9f0a5717-e7aa-4f59-a0ea-ee0a52d168f2" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/338fa4b6-8499-4390-9ef0-8e153000decd" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/f1d9838f-fba0-4882-b7e3-f539795a01f8" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/c68b6b30-221c-45c0-a7af-bfbbb28aeb08" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/1517592f-768e-4c1e-90ad-0012dc17e57a" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/f7b7557b-664b-42e4-835e-133dfe803e2c" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/231f871d-a26a-4132-9cd0-298fa74e239b" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/6eba97fa-d92c-4641-947f-08e2f8bc16d1" width="45%"> 
+<img src="https://git.arts.ac.uk/storage/user/650/files/9f0a5717-e7aa-4f59-a0ea-ee0a52d168f2" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/338fa4b6-8499-4390-9ef0-8e153000decd" width="45%"> <img src="https://github.com/evamh/Unity-Forest-Feeder-/assets/12279913/b85ec5ad-54c8-4fcd-b53f-eabb890247b9" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/c68b6b30-221c-45c0-a7af-bfbbb28aeb08" width="45%"> <img src="https://github.com/evamh/Unity-Forest-Feeder-/assets/12279913/0d81d7c8-4a0e-4b5e-8a25-4e3e320aea1d" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/f7b7557b-664b-42e4-835e-133dfe803e2c" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/231f871d-a26a-4132-9cd0-298fa74e239b" width="45%"> <img src="https://git.arts.ac.uk/storage/user/650/files/6eba97fa-d92c-4641-947f-08e2f8bc16d1" width="45%"> 
 
 ## Video 
 
