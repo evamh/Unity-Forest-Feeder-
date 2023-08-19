@@ -22,10 +22,7 @@ When Unity receives a signal from the port, it instantiates a prefab of the carr
 
 Below is a quick video demonstrating how it works:
 
-https://git.arts.ac.uk/storage/user/650/files/09cdcce2-143f-4c73-bbd8-5cb496736e4f
-
-
-
+https://github.com/evamh/Unity-Forest-Feeder-/assets/12279913/bd51ef76-f4c2-411b-80e3-ebe8ef74e627
 
 ## Assets
 
